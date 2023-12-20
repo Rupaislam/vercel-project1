@@ -1,0 +1,595 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blank WordPress Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2023-10-21 14:53+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:18
+msgid "Page not found"
+msgstr "पृष्ठ नहीं मिला"
+
+#: 404.php:19
+msgid "Unfortunately, the page you tried to reach does not exist on this site"
+msgstr "दुर्भाग्यवश, जिस पृष्ठ पर आपने पहुंचने का प्रयास किया वह इस साइट पर मौजूद नहीं है"
+
+#: 404.php:25
+msgid "Take a Look at Our Latest Blogs"
+msgstr "हमारे नवीनतम ब्लॉगों पर एक नज़र डालें"
+
+#: archive.php:33 index.php:35 search.php:35
+msgid "<<"
+msgstr "<<"
+
+#: archive.php:34 index.php:36 search.php:36
+msgid ">>"
+msgstr ">>"
+
+#: archive.php:39 index.php:41
+msgid "Nothing to display."
+msgstr "कुछ भी प्रदर्शित नहीं करना।"
+
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "पर एक सोच &ldquo;%s&rdquo;"
+
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s विचार किया &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s विचार किया &ldquo;%2$s&rdquo;"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "टिप्पणियाँ बंद हैं।"
+
+#: footer.php:40
+msgid "Copyright 2023 - All Rights Reserved"
+msgstr "कॉपीराइट 2023 - सर्वाधिकार सुरक्षित"
+
+#: functions.php:61
+msgid "Epic Blog Main Menu"
+msgstr "महाकाव्य ब्लॉग मुख्य मेनू"
+
+#: functions.php:62
+msgid "Epic Blog Footer Menu"
+msgstr "महाकाव्य ब्लॉग पाद लेख मेनू"
+
+#: functions.php:112
+msgid "Epic Blog Main Sidebar"
+msgstr "महाकाव्य ब्लॉग मुख्य साइडबार"
+
+#: functions.php:114 functions.php:123 functions.php:132 functions.php:141
+msgid "Drag and drop your widgets here"
+msgstr "अपने विजेट्स को यहां खींचें और छोड़ें"
+
+#: functions.php:121
+msgid "Footer Widget 1"
+msgstr "फ़ुटर विजेट 1"
+
+#: functions.php:130
+msgid "Footer Widget 2"
+msgstr "फ़ुटर विजेट 2"
+
+#: functions.php:139
+msgid "Footer Widget 3"
+msgstr "फ़ुटर विजेट 3"
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "आवश्यक प्लगिन स्थापित करें"
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "प्लगइन्स इंस्टॉल करें"
+
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "प्लगइन इंस्टॉल करना: %s"
+
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "प्लगइन अद्यतन कर रहा है: %s"
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "प्लगइन एपीआई में कुछ गड़बड़ हो गई।"
+
+#: inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "इस थीम के लिए निम्नलिखित प्लगइन्स की आवश्यकता है: %1$s."
+msgstr[1] "इस थीम के लिए निम्नलिखित प्लगइन की आवश्यकता है: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "यह थीम निम्नलिखित प्लगइन्स की अनुशंसा करती है: %1$s."
+msgstr[1] "यह थीम निम्नलिखित प्लगइन की अनुशंसा करती है: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"इस विषय के साथ अधिकतम अनुकूलता सुनिश्चित करने के लिए निम्नलिखित प्लगइन्स को उनके नवीनतम "
+"संस्करण में अद्यतन करने की आवश्यकता है: %1$s."
+msgstr[1] ""
+"इस विषय के साथ अधिकतम अनुकूलता सुनिश्चित करने के लिए निम्नलिखित प्लगइन को इसके नवीनतम "
+"संस्करण में अद्यतन करने की आवश्यकता है: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "निम्नलिखित प्लगइन्स के लिए अपडेट उपलब्ध हैं: %1$s."
+msgstr[1] "इसके लिए एक अद्यतन उपलब्ध है: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "निम्नलिखित आवश्यक प्लगइन्स वर्तमान में निष्क्रिय हैं: %1$s."
+msgstr[1] "निम्नलिखित आवश्यक प्लगइन वर्तमान में निष्क्रिय है: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "निम्नलिखित अनुशंसित प्लगइन्स वर्तमान में निष्क्रिय हैं: %1$s."
+msgstr[1] "निम्नलिखित अनुशंसित प्लगइन वर्तमान में निष्क्रिय है: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "प्लगइन्स इंस्टॉल करना शुरू करें"
+msgstr[1] "प्लगइन इंस्टॉल करना शुरू करें"
+
+#: inc/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "प्लगइन्स अपडेट करना शुरू करें"
+msgstr[1] "प्लगइन अपडेट करना प्रारंभ करें"
+
+#: inc/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "प्लगइन्स सक्रिय करना प्रारंभ करें"
+msgstr[1] "प्लगइन सक्रिय करना प्रारंभ करें"
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "आवश्यक प्लगइन इंस्टॉलर पर वापस आएं"
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "डाइश्बोर्ड पर वापस आएं"
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "प्लगइन सफलतापूर्वक सक्रिय हो गया."
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "निम्नलिखित प्लगइन्स सफलतापूर्वक सक्रिय किए गए:"
+msgstr[1] "निम्नलिखित प्लगइन सफलतापूर्वक सक्रिय किया गया था:"
+
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "कोई कार्रवाई नहीं की। लगाना %1$s पहले से ही सक्रिय था."
+
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"प्लगइन सक्रिय नहीं है. का एक उच्च संस्करण %s इस विषय के लिए आवश्यक है. कृपया प्लगइन अपडेट "
+"करें."
+
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "सभी प्लगइन्स सफलतापूर्वक स्थापित और सक्रिय हो गए। %1$s"
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "इस नोटिस को खारिज करें"
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "इंस्टॉल, अपडेट या सक्रिय करने के लिए एक या अधिक आवश्यक या अनुशंसित प्लगइन्स हैं।"
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "कृपया सहायता के लिए इस साइट के व्यवस्थापक से संपर्क करें।"
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "इस प्लगइन को आपकी थीम के अनुकूल होने के लिए अद्यतन करने की आवश्यकता है।"
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "अद्यतन आवश्यक है"
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"रिमोट प्लगइन पैकेज में वांछित स्लग वाला कोई फ़ोल्डर नहीं है और नाम बदलने से काम नहीं हुआ।"
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"कृपया प्लगइन प्रदाता से संपर्क करें और उन्हें वर्डप्रेस दिशानिर्देशों के अनुसार अपने प्लगइन को "
+"पैकेज करने के लिए कहें।"
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"रिमोट प्लगइन पैकेज में एक से अधिक फ़ाइलें होती हैं, लेकिन फ़ाइलें किसी फ़ोल्डर में पैक नहीं की "
+"जाती हैं।"
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "और"
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "आवश्यक"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "अनुशंसित"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "वर्डप्रेस रिपॉजिटरी"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "वाह्य स्रोत"
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "पहले से पैक किया"
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "स्थापित नहीं हे"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "स्थापित लेकिन सक्रिय नहीं"
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "सक्रिय"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "आवश्यक अद्यतन उपलब्ध नहीं है"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "अद्यतन की आवश्यकता है"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "अपडेट की सलाह दी गई"
+
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "सभी <span class=\"count\">(%s)</span>"
+msgstr[1] "सभी <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "स्थापित करने के लिए <span class=\"count\">(%s)</span>"
+msgstr[1] "स्थापित करने के लिए <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "उपलब्ध अद्यतन <span class=\"count\">(%s)</span>"
+msgstr[1] "उपलब्ध अद्यतन <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "सक्रिय के लिए <span class=\"count\">(%s)</span>"
+msgstr[1] "सक्रिय के लिए <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "अज्ञात"
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "स्थापित संस्करण:"
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "न्यूनतम आवश्यक संस्करण:"
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "उपलब्ध संस्करण:"
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "इंस्टॉल, अपडेट या सक्रिय करने के लिए कोई प्लगइन नहीं।"
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "लगाना"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "स्रोत"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "प्रकार"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "संस्करण"
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "स्थिति"
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "स्थापित करना %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "अद्यतन %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "सक्रिय %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "प्लगइन लेखक से अपग्रेड संदेश:"
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "स्थापित करना"
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "अद्यतन"
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "सक्रिय"
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "इंस्टॉल करने के लिए कोई प्लगइन नहीं चुना गया था. कोई कार्रवाई नहीं की।"
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "अद्यतन करने के लिए कोई प्लगइन नहीं चुना गया था। कोई कार्रवाई नहीं की।"
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "इस समय इंस्टॉल करने के लिए कोई प्लगइन उपलब्ध नहीं है।"
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "इस समय अपडेट करने के लिए कोई प्लगइन उपलब्ध नहीं है।"
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "सक्रिय करने के लिए कोई प्लगइन नहीं चुना गया था। कोई कार्रवाई नहीं की।"
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "इस समय सक्रिय करने के लिए कोई प्लगइन उपलब्ध नहीं है।"
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "प्लगइन सक्रियण विफल रहा."
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "प्लगइन अद्यतन कर रहा है %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "इंस्टॉल करते समय एक त्रुटि उत्पन्न हुई %1$s: <strong>%2$s</strong>."
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "की स्थापना %1$s  असफल"
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"स्थापना और सक्रियण प्रक्रिया प्रारंभ हो रही है. कुछ होस्टों पर इस प्रक्रिया में कुछ समय लग "
+"सकता है, इसलिए कृपया धैर्य रखें।"
+
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s सफलतापूर्वक स्थापित और सक्रिय किया गया।"
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "प्रदर्शन का विवरण"
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "विवरण छुपाओ"
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "सभी इंस्टॉलेशन और सक्रियण पूरे हो चुके हैं।"
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "प्लगइन स्थापित करना और सक्रिय करना %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"स्थापना प्रक्रिया प्रारंभ हो रही है. कुछ होस्टों पर इस प्रक्रिया में कुछ समय लग सकता है, "
+"इसलिए कृपया धैर्य रखें।"
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s सफलतापूर्वक स्थापित किया गया."
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "सभी इंस्टॉलेशन पूरे हो चुके हैं."
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "प्लगइन इंस्टॉल करना %1$s (%2$d/%3$d)"
+
+#: inc/class-wp-bootstrap-navwalker.php:374
+msgid "Add a menu"
+msgstr "एक मेनू जोड़ें"
+
+#: inc/customizer.php:17
+msgid "Copyright Settings"
+msgstr "कॉपीराइट सेटिंग्स"
+
+#: inc/customizer.php:18
+msgid "Copyright Section"
+msgstr "कॉपीराइट अनुभाग"
+
+#: inc/customizer.php:35
+msgid "Copyright"
+msgstr "कॉपीराइट"
+
+#: inc/customizer.php:36
+msgid "Please, add your copyright information here"
+msgstr "कृपया, अपनी कॉपीराइट जानकारी यहां जोड़ें"
+
+#: search.php:19
+msgid "Search results for"
+msgstr "के लिए खोज परिणाम"
+
+#: search.php:41
+msgid "There are no results for your query."
+msgstr "आपकी क्वेरी के लिए कोई परिणाम नहीं हैं."
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search"
+msgstr "खोज"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "खोज"
+
+#: template-home.php:54 template-home.php:111
+#: template-parts/content-archive.php:32 template-parts/content-search.php:32
+#: template-parts/content.php:32
+msgid "Read More"
+msgstr "और पढ़ें"
+
+#: template-home.php:63
+msgid "No Post Found"
+msgstr "कोई पोस्ट नहीं मिला"
+
+#: template-parts/content-single.php:22
+msgid "Published by"
+msgstr "द्वारा प्रकाशित"
+
+#: template-parts/content-single.php:24
+msgid "on"
+msgstr "पर"
+
+#: template-parts/content-single.php:44
+msgid "Pages"
+msgstr "पृष्ठों"
